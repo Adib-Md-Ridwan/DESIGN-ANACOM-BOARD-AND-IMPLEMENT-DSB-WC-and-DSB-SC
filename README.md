@@ -1,4 +1,4 @@
-# DESIGN-ANACOM-BOARD-AND-IMPLEMENT-DSB-WC-and-DSB-SC
+# DESIGN ANACOM BOARD AND IMPLEMENT DSB-WC and DSB-SC
 An analog communication system is a communication system where the information signal sent from point A to point B can only be described as an analog signal. In practical life our baseband  signal needs to transmit from one place to another place and for this purpose we need our  Communication system. Generally, we modulate our intelligent signal with a high frequency 
 carrier to transmit information effectively. In analog communication , we use many kind of modulation technique like amplitude modulation,  Phase modulation and frequency modulation. Amplitude modulation (AM) is a modulation 
 technique used in electronic communication, most commonly for transmitting messages with a  radio wave. In AM , we modulate the amplitude of high frequency carrier signal with respect to the amplitude of the message signal .
